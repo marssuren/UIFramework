@@ -1,0 +1,23 @@
+{
+	"ConfigInfo":
+	[
+		{
+			"Key":"配置文件说明","Value":"......"
+		},
+		{
+			"Key":"LogDriveName","Value":"F"
+		},
+		{
+			"Key":"LogPath","Value":"SUIFW_Log_New"
+		},
+		{
+			"Key":"LogState","Value":"Develop"
+		},
+		{
+			"Key":"LogMaxCapacity","Value":"300"
+		},
+		{
+			"Key":"LogBufferNumber","Value":"30"
+		},
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"ConfigInfoLst":
+	[
+		{"Key":"LogInPanel","Value":"Prefabs\\UI\\UIPanel\\LogInPanel"},
+		{"Key":"MainCityPanel","Value":"Prefabs\\UI\\UIPanel\\MainCityPanel"}
+	] 
+}
